@@ -66,4 +66,4 @@ function highlightTag(tag) {
 
 function unHighlightTag(tag) {
     tag.classList.remove('highlight')
-}.
+}
